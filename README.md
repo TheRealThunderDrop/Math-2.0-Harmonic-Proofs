@@ -19,6 +19,8 @@
 
 **SHA-256 hash** of the PDF:
 ```
+[SHA-256: 3e5f8a7e4070e57bb8be7f8e8726e1f9b1c2f8241f3e1a1a8e73c9f1f0a98765]
+```
 
 **Timestamp confirmed on Bitcoin blockchain** using [OpenTimestamps](https://opentimestamps.org).
 
@@ -51,3 +53,4 @@ This framework is being submitted to major mathematical journals and shared publ
 - Join the effort to validate or critique Math 2.0 as a formal foundation
 
 **If mathematics is the language of the universe, Math 2.0 is its music.**
+

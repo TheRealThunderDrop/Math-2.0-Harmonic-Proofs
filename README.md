@@ -1,4 +1,3 @@
-# Math-2.0-Harmonic-Proofs
 # Math 2.0: Harmonic Foundations and Clay-Level Proofs
 
 ## 🧠 Overview

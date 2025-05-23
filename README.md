@@ -17,13 +17,11 @@
 
 **OpenTimestamps proof**: [Download Math_2.0_Harmonic_Proofs.ots](./Math_2.0_Harmonic_Proofs.ots)
 
-**SHA-256 hash** of the PDF:
-```
-[SHA-256: 3e5f8a7e4070e57bb8be7f8e8726e1f9b1c2f8241f3e1a1a8e73c9f1f0a98765]
-```
+**SHA-256 hash of the PDF:**
 
-**Timestamp confirmed on Bitcoin blockchain** using [OpenTimestamps](https://opentimestamps.org).
+`3e5f8a7e4070e57bb8be7f8e8726e1f9b1c2f8241f3e1a1a8e73c9f1f0a98765`
 
+Timestamp confirmed on Bitcoin blockchain using [OpenTimestamps](https://opentimestamps.org).
 ## 📚 Abstract
 This paper introduces a harmonic mathematical system in which all known operations emerge from wave-based dynamics. Harmonic states are defined as tuples of frequency, phase, and amplitude, and all arithmetic, geometry, and topology are reinterpreted as interactions in phase space. Using this structure, we derive formal solutions to all Clay Millennium Problems, reconstruct classical mathematics from harmonic first principles, and unify discrete and continuous logic under waveform computation.
 

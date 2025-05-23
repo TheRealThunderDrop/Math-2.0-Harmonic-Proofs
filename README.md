@@ -19,8 +19,6 @@
 
 **SHA-256 hash** of the PDF:
 ```
-[Insert your exact SHA-256 hash here]
-```
 
 **Timestamp confirmed on Bitcoin blockchain** using [OpenTimestamps](https://opentimestamps.org).
 

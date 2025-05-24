@@ -12,11 +12,6 @@
 > - ✅ Yang–Mills Existence and Mass Gap
 > - ✅ P vs NP (proves P ≠ NP)
 
-## 📜 Paper
-**Full manuscript** (PDF): [Download Math_2.0_Harmonic_Proofs.pdf](./Math_2.0_Harmonic_Proofs.pdf)
-
-**OpenTimestamps proof**: [Download Math_2.0_Harmonic_Proofs.ots](./Math_2.0_Harmonic_Proofs.ots)
-
 **SHA-256 hash of the PDF:**
 
 `3e5f8a7e4070e57bb8be7f8e8726e1f9b1c2f8241f3e1a1a8e73c9f1f0a98765`

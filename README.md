@@ -26,7 +26,7 @@ Math 2.0 not only solves these problems but redefines the framework within which
 **Author:** Mark Nagy  
 **Affiliation:** Independent Researcher  
 **Location:** Toronto, Canada  
-**Contact:** mark.nagy.math@protonmail.com
+**Contact:** marknagy646@hotmail.com
 
 ## 🔒 Proof of Authorship
 This repository is timestamped via:
